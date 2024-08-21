@@ -1,0 +1,6 @@
+@_4.RoutingMinimalApi_HostAddress = http://localhost:5072
+
+GET {{_4.RoutingMinimalApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
